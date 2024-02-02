@@ -1,4 +1,4 @@
-### Hi, my name is Dione 👋
+### Hey, my name is Dione 👋
 
 <!--
 **Dionepx/Dionepx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
