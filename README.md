@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Hoje eu estou em busca do meu primeiro sim
+- 🔭 Estou em busca do meu primeiro sim
 - 🌱 Estudando JavaScript
 - 😄 Pronouns: ele/dele
 -->
