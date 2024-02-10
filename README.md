@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Dione</h1>
 <h3 align="center">Full-Stack Developer From Brazil</h3>
 
+<img align='right' alt='Coding' width='300' height='300'
+src='https://imgs.search.brave.com/BATPum-9rBgY_WWnKpMyV79Alk9XuyxEtlYQ4LOcMAI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3FnUVVn/Z0FDM1BmdjY4N3FQ/Qy8yMDAuZ2lmP2Np/ZD03OTBiNzYxMTEw/eWVtM2gzbmxqb2sx/YXU2czNjOXh6am4z/a2w3aHF4NDIwcGhs/ajUmZXA9djFfZ2lm/c19zZWFyY2gmcmlk/PTIwMC5naWYmY3Q9/Zw.gif'>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dionepx&label=Profile%20views&color=0e75b6&style=flat" alt="dionepx" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
