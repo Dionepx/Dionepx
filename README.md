@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dione</h1>
 <h3 align="center">Full-Stack Developer From Brazil</h3>
+<img align='right' alt='coding' width='200' 
+src='https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-atomos-12.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dionepx&label=Profile%20views&color=0e75b6&style=flat" alt="dionepx" /> </p>
 
