@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Dione</h1>
 <h3 align="center">Full-Stack Developer From Brazil</h3>
 
@@ -22,3 +21,6 @@ src='https://imgs.search.brave.com/BATPum-9rBgY_WWnKpMyV79Alk9XuyxEtlYQ4LOcMAI/r
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dionepx&show_icons=true&locale=en" alt="dionepx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dionepx&" alt="dionepx" /></p>
+
+<!-- Default commit message -->
+<p align="center">Default commit message: "da um default nos commits"</p>
