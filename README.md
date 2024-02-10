@@ -18,5 +18,3 @@ src='https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-atomos-12.gif'>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dionepx&show_icons=true&locale=en&layout=compact" alt="dionepx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dionepx&show_icons=true&locale=en" alt="dionepx" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dionepx&" alt="dionepx" /></p>
