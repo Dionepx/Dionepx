@@ -32,6 +32,9 @@ src='https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-atomos-12.gif'>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/>
 </a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="65" height="65"/>
+</a>
 
   
 </p>
