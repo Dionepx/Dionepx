@@ -18,7 +18,7 @@ src='https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-atomos-12.gif'>
   <a href="mailto:dionevasconcelos17@gmail.com" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="30" width="40" />
   </a>
-  <a href="https://discord.com" target="_blank">
+ <a href="https://discord.gg/dione8494" target="_blank">
     <img align="center" src="https://img.icons8.com/plasticine/100/000000/discord-logo.png" alt="Discord" height="40" width="40" />
 </a>
 
