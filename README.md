@@ -39,6 +39,9 @@ src='https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-atomos-12.gif'>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="65" height="65"/>
 </a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="65" height="65"/>
+</a>
 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="65" height="65"/>
