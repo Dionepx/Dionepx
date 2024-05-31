@@ -8,10 +8,16 @@ src='https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-atomos-12.gif'>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">  
-  <img align="center" alt="dione-LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-  <img align="center" alt="sabrina-WhatsApp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg">
-  <img align="center" alt="sabrina-Gmail" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png">
+  <p align="left">  
+    <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+      <img align="center" alt="sabrina-LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+  </a>
+    <a href="https://wa.me/+55 (27)99503-7393" target="_blank">
+      <img align="center" alt="sabrina-WhatsApp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg">
+  </a>
+   <a href="mailto:dionevasconcelos17@gmail.com" target="_blank">
+      <img align="center" alt="sabrina-Gmail" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
