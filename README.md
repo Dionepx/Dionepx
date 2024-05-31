@@ -1,11 +1,4 @@
-<h1 align="center">
-  <span>
-    Hi, I'm Dione!
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="30" style="vertical-align: middle; margin-left: 10px;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" alt="Italy Flag" width="30" style="vertical-align: middle; margin-left: 5px;"/>
-  </span>
-</h1>
-
+<h1 align="center">Hi, I'm Dione!</h1>
 
 <h3 align="center">Front-end Developer From Brazil</h3>
 <img align='right' alt='coding' width='100' 
