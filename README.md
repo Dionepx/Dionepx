@@ -1,4 +1,7 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" alt="Italy Flag" width="30"/>
+<span>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="30" style="vertical-align: middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" alt="Italy Flag" width="30" style="vertical-align: middle;"/>
+</span>
 
 <h1 align="center">Hi, I'm Dione!</h1>
 
