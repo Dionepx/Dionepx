@@ -9,10 +9,10 @@ src='https://camo.githubusercontent.com/2bd77ffc409a9b1f3574498c51bbfae943d7d63d
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">  
-    <a href="https://www.linkedin.com/in/dione-v-silva"><img align="center" alt="dione-LinkedIn" height="30" style="width: auto;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
-    <a href="https://wa.me/5527995037393"><img align="center" alt="dione-WhatsApp" height="30" style="width: auto;" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"></a>
-    <a href="https://mail.google.com/"><img align="center" alt="dione-Gmail" height="30" style="width: auto;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"></a>
-    <a href="https://www.instagram.com/dionevasconcelos17"><img align="center" alt="dione-Instagram" height="30" style="width: auto;" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"></a>
+    <a alt="dione-LinkedIn" href="https://www.linkedin.com/in/dione-v-silva"><img align="center" height="30" style="width: auto;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
+    <a alt="dione-WhatsApp" href="https://wa.me/5527995037393"><img align="center" alt="dione-WhatsApp" height="30" style="width: auto;" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"></a>
+    <a alt="dione-Gmail" href="https://mail.google.com/"><img align="center" height="30" style="width: auto;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"></a>
+    <a alt="dione-Instagram" href="https://www.instagram.com/dionevasconcelos17"><img align="center" height="30" style="width: auto;" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
