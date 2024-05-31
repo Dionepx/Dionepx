@@ -29,10 +29,11 @@ src='https://camo.githubusercontent.com/2bd77ffc409a9b1f3574498c51bbfae943d7d63d
   <img align="center" alt="dione-Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dionepx&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dionepx&show_icons=true&locale=en" alt="GitHub Stats" />
+
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dionepx&bg_color=ffffff&color=000000&line=9a3232&point=000000&area=true&hide_border=true" alt="Github Activity Graph" />
+  </a>
 </p>
