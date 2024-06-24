@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Dione!</h1>
-
 <h3 align="center">Full-Stack Developer From Brazil</h3>
-<img align='right' alt='coding' width='100' 
-src='https://camo.githubusercontent.com/2bd77ffc409a9b1f3574498c51bbfae943d7d63da1bf24fdd0bb093bf6091281/68747470733a2f2f676966732e65636f2e62722f77702d636f6e74656e742f75706c6f6164732f323032322f30372f676966732d64652d61746f6d6f732d31322e676966'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dionepx&label=Profile%20views&color=0e75b6&style=flat" alt="dionepx" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
