@@ -1,6 +1,4 @@
 <h1 align="center">Hi, I'm Dione!</h1>
-<h3 align="center">Full-Stack Developer From Brazil</h3>
-
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">  
@@ -23,5 +21,3 @@
   <img align="center" alt="dione-Maven" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg">
   <img align="center" alt="dione-SpringBoot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 </p>
-
-
