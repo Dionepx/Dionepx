@@ -17,9 +17,7 @@
   <img align="center" alt="dione-Java" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">  
   <img align="center" alt="dione-JavaEE" height="55" width="65" src="JavaEE.svg">
   <img align="center" alt="dione-Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  
   <img align="center" alt="dione-SpringBoot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  
   <img align="center" alt="dione-PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="dione-Tomcat" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">
   <img align="center" alt="dione-Maven" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
@@ -30,5 +28,4 @@
   // Mudar icone pra start
   <img align="center" alt="dione-Spring-Security-jwt" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="dione-RESTAPI" height="55" width="65" src="RestAPI">
-  
 </p>
