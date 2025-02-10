@@ -24,6 +24,10 @@
   <img align="center" alt="dione-Flyway" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flyway/flyway-original.svg">
   <img align="center" alt="dione-Spring Data JPA" height="50" width="60" src="LINK_DO_LOGO_ESPECÍFICO_AQUI">
   <img align="center" alt="dione-Hibernate" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg">
+  <img align="center" alt="dione-H2" height="55" width="65" src="">
+  <img align="center" alt="dione-Postman" height="55" width="65" src="">
+  <img align="center" alt="dione-Heroku" height="55" width="65" src="">
+
 
   // Mudar icone pra start
   <img align="center" alt="dione-Spring-Security-jwt" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
