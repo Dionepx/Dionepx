@@ -31,6 +31,9 @@
   <a href="https://wa.me/5527997392016" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a>
+  <span style="display:inline-block; vertical-align: middle; margin-left: 5px;">
+    <img src="https://img.shields.io/static/v1?message=dionesilva23&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </span>
 </div>
 
 ###
