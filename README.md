@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Java Spring Boot<br>🎯 Goals: FullStack<br>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Java Spring Boot<br>🎯 Goals: Java Expert<br>
 
 ###
 
